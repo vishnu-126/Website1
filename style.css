@@ -1,0 +1,21 @@
+body{
+  background-color: #EAB2A0;
+}
+div{
+  text-align: center;
+}
+img{
+  width: 600px;
+  border: 5px solid #A76F6F;
+}
+h1{
+  font-family:'Libre Baskerville';
+  font-weight: normal;
+  color: #2D4356;
+  font-size:xx-large
+}
+p{
+  font-family:'Libre Baskerville';
+  color: #435B66 ;
+  font-size: small;
+}
